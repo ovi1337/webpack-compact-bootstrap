@@ -1,0 +1,31 @@
+// Vendor
+@import "node_modules/bootstrap/scss/vendor/rfs";
+
+// Deprecate
+@import "node_modules/bootstrap/scss/mixins/deprecate"; // only necessary for text utility
+
+// Utilities
+@import "node_modules/bootstrap/scss/mixins/breakpoints";
+@import "node_modules/bootstrap/scss/mixins/visibility";
+@import "node_modules/bootstrap/scss/mixins/border-radius";
+@import "node_modules/bootstrap/scss/mixins/box-shadow";
+@import "node_modules/bootstrap/scss/mixins/transition";
+@import "node_modules/bootstrap/scss/mixins/gradients";
+@import "node_modules/bootstrap/scss/mixins/hover";
+@import "node_modules/bootstrap/scss/mixins/text-truncate"; // only necessary for text utility
+@import "node_modules/bootstrap/scss/mixins/text-emphasis"; // only necessary for text utility
+@import "node_modules/bootstrap/scss/mixins/text-hide"; // only necessary for text utility
+
+// // Components
+@import "node_modules/bootstrap/scss/mixins/size";
+@import "node_modules/bootstrap/scss/mixins/forms";
+@import "node_modules/bootstrap/scss/mixins/buttons";
+@import "node_modules/bootstrap/scss/mixins/lists";
+
+// // Layout
+@import "node_modules/bootstrap/scss/mixins/clearfix";
+@import "node_modules/bootstrap/scss/mixins/grid-framework";
+@import "node_modules/bootstrap/scss/mixins/grid";
+@import "node_modules/bootstrap/scss/mixins/float";
+@import "node_modules/bootstrap/scss/mixins/background-variant";
+@import "node_modules/bootstrap/scss/mixins/screen-reader";
