@@ -1,4 +1,4 @@
-# Webpack boilerplate for Boostrap 4 with auto-clean of unused styles
+# Webpack boilerplate for Bootstrap 4 with auto-clean of unused styles
 
 ## Project setup
 
