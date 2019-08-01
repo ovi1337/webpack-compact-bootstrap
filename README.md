@@ -6,13 +6,13 @@
 npm install
 ```
 
-### Compiles and minifies for production
+### Compiles and hot-reloads for development
 
 ```
 npm start
 ```
 
-### Compiles and hot-reloads for development
+### Compiles and minifies for production
 
 ```
 npm run build-dev
